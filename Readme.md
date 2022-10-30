@@ -50,3 +50,4 @@ create a class revenue
 
 create a class manager
 - inherit from classes Menu, Inventory, Table, Revenue
+- create a function Login
