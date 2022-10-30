@@ -22,8 +22,8 @@ chef portal
 
 create a class Menu
 - create a function Display_menu that calls the menu GUI
-- create a GUI menu with different category
-- create a function Add_item that adds a dish and its details to the menu
+- create a GUI menu with different categories
+- create a function Add_item (Name, Price, Category)
 
 create a class Table
 - inherit from class Menu
